@@ -5,3 +5,4 @@
 - 👯 Open to collaborating on AI and web projects
 - 💻 Experienced with Python, Flask, and building web projects
 - 💬 Ask me about AI, deep learning, Python, or web development
+![Badge Label](badge_image_URL)
