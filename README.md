@@ -35,7 +35,3 @@ AI & Machine Learning enthusiast from Tunisia — I build accessible, data-drive
 | [Books Price Intelligence](https://github.com/Zemoo8/scraping-book) | Scraping to SQLite to analytics dashboard, with a price-trend model | Python, BeautifulSoup, Streamlit |
 | [Gestion d'Absences](https://github.com/Zemoo8/gestion-absences-faculte) | Faculty absence-management platform refactored into an MVC architecture | PHP, MySQL, Flask |
 
-## GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zemoo8&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zemoo8&layout=compact&hide_border=true&theme=tokyonight)
