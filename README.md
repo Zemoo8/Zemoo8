@@ -9,7 +9,7 @@ AI & Machine Learning enthusiast from Tunisia — I build accessible, data-drive
 
 ## About me
 
-- 🔭 Currently building **AI Eyes**, a mobile accessibility app that narrates the world in spoken Arabic for blind and low-vision users
+- 🔭 Completed building **AI Eyes**, a mobile accessibility app that narrates the world in spoken Arabic for blind and low-vision users
 - 🧠 Focused on computer vision, deep learning and applied machine learning
 - 🌱 Learning model deployment, clean architecture and MLOps practices
 - 👯 Open to collaborating on AI, computer vision and full-stack web projects
