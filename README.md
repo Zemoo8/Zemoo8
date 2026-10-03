@@ -5,6 +5,22 @@ Computer vision, state estimation and applied machine learning. I build systems 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-baghouli-b8199b330)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedbaghoulii@gmail.com)
 
+<p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zemoo8&theme=github_dark">
+<img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zemoo8&theme=default">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zemoo8&theme=github_dark">
+<img height="170" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zemoo8&theme=default">
+</picture>
+</p>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zemoo8&theme=github-dark-blue&hide_border=true">
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Zemoo8&theme=default&hide_border=true">
+</picture>
+
 ---
 
 ## Highlights
@@ -28,24 +44,6 @@ Computer vision, state estimation and applied machine learning. I build systems 
 | [AI Eyes Dashboard](https://github.com/Zemoo8/AI-Eyes-dashboard) | Web dashboard letting relatives follow a user's activity and alerts. | Next.js, TypeScript |
 | [Sandy AI Lab](https://github.com/Zemoo8/CodeItUp0.6) | Hackathon lab assistant answering plain-English questions over live lab data. | React, FastAPI, Groq |
 | [Books Price Intelligence](https://github.com/Zemoo8/scraping-book) | Scraping to SQLite to analytics dashboard, with a simple price-trend baseline. | Python, pandas, Streamlit |
-
-## GitHub stats
-
-<p>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zemoo8&theme=github_dark">
-<img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zemoo8&theme=default">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zemoo8&theme=github_dark">
-<img height="170" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zemoo8&theme=default">
-</picture>
-</p>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zemoo8&theme=github-dark-blue&hide_border=true">
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Zemoo8&theme=default&hide_border=true">
-</picture>
 
 ## Tech
 
